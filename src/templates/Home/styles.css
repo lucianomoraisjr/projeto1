@@ -1,7 +1,7 @@
 .container{
   max-width: 1200px;
   min-height: 100vh;
-  background: brown;
+  background: rgb(128, 126, 126);
   padding: 30px;
   margin: 0 auto;
 }
@@ -28,3 +28,20 @@
   padding:30px;
 }
 
+.botao {
+  background-color: #080808;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  margin-bottom: 20px;
+  align-items: flex-end;
+}
+.intup{
+  margin-bottom: 16px;
+  display: flex;
+  width: 25%;
+  }
